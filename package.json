@@ -14,10 +14,16 @@
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.14.8",
     "@mui/material": "^5.14.8",
+    "@react-google-maps/api": "^2.19.2",
     "axios": "^1.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.15.0"
+    "react-google-autocomplete": "^2.7.3",
+    "react-google-maps": "^9.4.5",
+    "react-router-dom": "^6.15.0",
+    "socket.io-client": "^4.7.2",
+    "sockjs-client": "^1.6.1",
+    "stompjs": "^2.3.3"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
